@@ -1,0 +1,1 @@
+Print("Om sri chengalamma parameswari devyai namaha")
